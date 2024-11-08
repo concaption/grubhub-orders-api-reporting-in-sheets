@@ -5,7 +5,7 @@
 This project automates the process of managing employee and supervisor-related Google Sheets. It creates new sheets for each employee and supervisor, populates them with relevant data, and shares them with the respective users. The project utilizes the Google Sheets API and Google Drive API for sheet management and sharing.
 
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/concaption/grubhub-reporting/tree/better)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/concaption/grubhub-orders-api-reporting-in-sheets)
 
 ## Features
 
@@ -37,7 +37,7 @@ graph TD
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/concaption/grubhub-reporting.git
+   git clone https://github.com/concaption/grubhub-orders-api-reporting-in-sheets.git
    cd grubhub-reporting
    ```
 
